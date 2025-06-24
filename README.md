@@ -68,3 +68,49 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+```
+portfolio
+├─ package-lock.json
+├─ package.json
+├─ postcss.config.js
+├─ public
+│  ├─ favicon.ico
+│  ├─ index.html
+│  ├─ logo192.png
+│  ├─ logo512.png
+│  ├─ manifest.json
+│  ├─ robots.txt
+│  └─ _redirects
+├─ README.md
+├─ src
+│  ├─ App.css
+│  ├─ App.js
+│  ├─ App.test.js
+│  ├─ Assets
+│  │  ├─ image.png
+│  │  ├─ portfolio.png
+│  │  ├─ project1.png
+│  │  ├─ project2.png
+│  │  ├─ project3.png
+│  │  └─ project4.png
+│  ├─ components
+│  │  ├─ About.jsx
+│  │  ├─ Contact.jsx
+│  │  ├─ Hero.jsx
+│  │  ├─ Projects.jsx
+│  │  ├─ Sidebar.jsx
+│  │  └─ TechStack.jsx
+│  ├─ index.css
+│  ├─ index.js
+│  ├─ logo.svg
+│  ├─ pages
+│  │  ├─ AboutPage.jsx
+│  │  ├─ ContactPage.jsx
+│  │  ├─ ProjectPage.jsx
+│  │  └─ StackPage.jsx
+│  ├─ reportWebVitals.js
+│  └─ setupTests.js
+└─ tailwind.config.js
+
+```
